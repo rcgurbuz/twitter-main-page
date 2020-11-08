@@ -1,0 +1,45 @@
+.bgright{
+    background-color: #1DA1F2;
+    height: 540px;
+}
+
+.alignpageleft{
+    margin-top: 175px;
+    margin-right: 100px;
+    margin-left: 100px;
+    
+    
+}
+.alignpageright{
+    margin-top: 100px;
+    margin-right: 120px;
+    margin-left: 120px;
+   
+}
+
+.footeralign{
+    margin-top: 12px;
+    font-size: 13px;
+  
+
+}
+.listsytle{
+    list-style: none;
+}
+
+.gradien{
+    background: linear-gradient(white,white);
+    
+}
+.btn {
+    background-color: #1DA1F2!important;
+    color:white!important;
+
+ }
+ .btn1{
+    color: #1DA1F2!important;
+    border: 1px solid #1DA1F2!important;
+    background-color: white!important;
+
+    
+ }
